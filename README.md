@@ -6,7 +6,7 @@
 Informações
 ```javascript
 // Sobre Mim
-let desenvolver = {
+let desenvolvedor = {
     nome: 'Almir Lopes Moreira Junior',
     apelido:'Junior',
     apelidoSocial: 'Junior Lopes',
