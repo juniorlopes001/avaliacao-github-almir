@@ -9,7 +9,7 @@ Informações
 let desenvolver = {
     nome: 'Almir Lopes Moreira Junior',
     apelido:'Junior',
-    apelidoSocial: 'Junior Lopes'
+    apelidoSocial: 'Junior Lopes',
     idade: 22,
     sexo: 'Masculino',
     estadoCivil: 'solteiro',
@@ -20,6 +20,16 @@ let desenvolver = {
 }
 ```
 ``
+
+```javascript
+// Sobre Mim
+isDev(skill){
+    return skill === 'Angular' ? 'High Skill' : 'Soft Skill'
+}
+
+console.log(isDev('Angular'))
+// Returns High SKill
+```
 
 ### Skills
 
