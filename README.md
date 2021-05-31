@@ -8,6 +8,8 @@ Informações
 // Sobre Mim
 let desenvolver = {
     nome: 'Almir Lopes Moreira Junior',
+    apelido:'Junior',
+    apelidoSocial: 'Junior Lopes'
     idade: 22,
     sexo: 'Masculino',
     estadoCivil: 'solteiro',
