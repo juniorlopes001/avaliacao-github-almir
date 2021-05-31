@@ -1,7 +1,7 @@
 ## Almir Lopes Moreira Junior
 ### Desenvolvedor Front-end
 
-![Destaque](https://github.com/juniiorlopes001/https://github.com/juniorlopes001/avaliacao-github-almir/imagem.png)
+![Node](https://github.com/juniorlopes001/avaliacao-github-almir/blob/master/imagem.png)
 
 Informações
 ```javascript
