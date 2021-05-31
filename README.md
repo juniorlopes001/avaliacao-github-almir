@@ -15,7 +15,8 @@ let desenvolver = {
     estadoCivil: 'solteiro',
     nacionalidade: 'Brasileiro',
     cidade: 'São José dos Campos',
-    email:'almirlopesmjunior@gmail.com'
+    email:'almirlopesmjunior@gmail.com',
+    linkedin: 'linkedin.com/in/almir-lopes'
 }
 ```
 ``
