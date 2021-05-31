@@ -1,9 +1,11 @@
 ## Almir Lopes Moreira Junior
 ### Desenvolvedor Front-end
 
+![Destaque](https://github.com/juniiorlopes001/https://github.com/juniorlopes001/avaliacao-github-almir/imagem.png)
+
 Informações
 ```javascript
-// JavaScript
+// Sobre Mim
 let desenvolver = {
     nome: 'Almir Lopes Moreira Junior',
     idade: 22,
